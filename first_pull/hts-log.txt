@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 22 Jun 2019 15:00:46 at http://demo.templateocean.com/premium/template/kane/layout-style-one/dark/image-bg/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://demo.templateocean.com/premium/template/kane/layout-style-one/dark/image-bg/index.html -O1 "C:\Users\Zver\Desktop\first_pull" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:01:52	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.templateocean.com/premium/template/kane/files/images/screenshots/3.jpg (from demo.templateocean.com/premium/template/kane/layout-style-one/dark/image-bg/index.html)
+15:01:59	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.templateocean.com/premium/template/kane/layout-style-one/dark/image-bg/js/bootstrap.min.js (from demo.templateocean.com/premium/template/kane/layout-style-one/dark/image-bg/index.html)
+15:02:01	Error: 	"Not Found" (404) at link demo.templateocean.com/premium/template/kane/layout-style-one/dark/image-bg/css/AjaxLoader.gif (from demo.templateocean.com/premium/template/kane/layout-style-one/dark/image-bg/css/owl.theme.css)
+15:02:01	Error: 	"Not Found" (404) at link demo.templateocean.com/premium/template/kane/layout-style-one/dark/image-bg/css/grabbing.png (from demo.templateocean.com/premium/template/kane/layout-style-one/dark/image-bg/css/owl.carousel.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 52 seconds : 89 links scanned, 84 files written (3296591 bytes overall) [2779346 bytes received at 24815 bytes/sec], 775291 bytes transferred using HTTP compression in 41 files, ratio 28%, 7.4 requests per connection
+(2 errors, 2 warnings, 0 messages)

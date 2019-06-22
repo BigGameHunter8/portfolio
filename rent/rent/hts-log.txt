@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 22 Jun 2019 19:53:05 at http://carrental.themeinjection.com/theme/index.php +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://carrental.themeinjection.com/theme/index.php -O1 "C:\Users\Zver\Desktop\portfolio\rent\rent" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:54:06	Error: 	"Not Found" (404) at link carrental.themeinjection.com/theme/blog-single-post.html (from carrental.themeinjection.com/theme/blog-posts.php)
+19:54:06	Error: 	"Not Found" (404) at link carrental.themeinjection.com/theme/index.html (from carrental.themeinjection.com/theme/blog-posts.php)
+19:54:06	Error: 	"Not Found" (404) at link carrental.themeinjection.com/theme/js/style-switcher.js (from carrental.themeinjection.com/theme/blog-posts.php)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 1 seconds : 73 links scanned, 69 files written (2251869 bytes overall) [1517233 bytes received at 24872 bytes/sec], 1156051 bytes transferred using HTTP compression in 30 files, ratio 34%, 2.7 requests per connection
+(3 errors, 0 warnings, 0 messages)

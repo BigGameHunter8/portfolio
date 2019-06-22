@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+carrental.themeinjection.com	TRUE	/	FALSE	1999999999	PHPSESSID	92f0e7097466415e1f8a0f7754829f21
+
